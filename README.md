@@ -51,7 +51,7 @@ advent_of_code/
 
 | Day | Challenge Name     | Stars 🌟 |
 |-----|--------------------|----------|
-| 1   | Historian Hysteria | ⭐        |
+| 1   | Historian Hysteria | ⭐⭐       |
 | 2   | Red-Nosed Reports  | ⭐⭐       |
 | 3   | Mull It Over       | ⭐⭐       |
 | ... | (More to come)     |          |
