@@ -49,11 +49,12 @@ advent_of_code/
 
 ## ⭐ Progress
 
-| Day  | Challenge Name               | Stars 🌟 |
-|------|------------------------------|----------|
-| 1    | Historian Hysteria           | ⭐⭐       |
-| 2    | Red-Nosed Reports            | ⭐⭐       |
-| ...  | (More to come)               |          |
+| Day | Challenge Name     | Stars 🌟 |
+|-----|--------------------|----------|
+| 1   | Historian Hysteria | ⭐        |
+| 2   | Red-Nosed Reports  | ⭐⭐       |
+| 3   | Mull It Over       | ⭐⭐       |
+| ... | (More to come)     |          |
 
 ---
 
