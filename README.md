@@ -54,6 +54,7 @@ advent_of_code/
 | 1   | Historian Hysteria | ⭐⭐       |
 | 2   | Red-Nosed Reports  | ⭐⭐       |
 | 3   | Mull It Over       | ⭐⭐       |
+| 4   | Ceres Search       | ⭐⭐       |
 | ... | (More to come)     |          |
 
 ---
